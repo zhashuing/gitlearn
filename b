@@ -1,0 +1,3 @@
+consistency
+availability
+partition 
